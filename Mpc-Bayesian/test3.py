@@ -1,4 +1,4 @@
-from bayes_opt import BayesianOptimization
+from bayes_mpc_demo import BayesianOptimization
 import matlab.engine
 import numpy as np
 

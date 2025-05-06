@@ -1,4 +1,4 @@
-from bayes_opt import BayesianOptimization
+from bayes_mpc_demo import BayesianOptimization
 # from bayes_opt.util import Colours
 import matlab.engine
 
